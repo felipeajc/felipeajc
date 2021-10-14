@@ -6,7 +6,7 @@
 
 - 👨🏻‍💻 I’m currently living in Lisbon and working at <a href="https://faurecia-aptoide.com/" target="_blank">Faurecia Aptoide Automotive.</a>
 - 📺 I have launched my own application on Google Play Store and it reached 400K downloads, 6.3K rates and 4.9 stars. Link to download <a href="https://play.google.com/store/apps/details?id=com.e4usolutions.metas" target="_blank">HERE</a>
-- 🌱 I’m currently learning Jetpack Compose 💻
+- 🌱 I’m currently learning Jetpack Compose 💻 and working in projects that build awesome Automotive App Stores.
 
 ---
 
