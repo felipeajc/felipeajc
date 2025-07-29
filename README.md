@@ -2,9 +2,9 @@
 
 🎯 Android Specialist | Kotlin Enthusiast | Full-Stack Developer
 
-🇧🇷 Originally from Rio de Janeiro, Brazil    🌍 Based in Lisbon, Portugal since 2017
-📱 Passionate about building robust, scalable Android apps
-🚀 15+ years of experience across mobile, web, and backend development
+🇧🇷 Originally from Rio de Janeiro, Brazil    🌍 Based in Lisbon, Portugal since 2017<br>
+📱 Passionate about building robust, scalable Android apps<br>
+🚀 15+ years of experience across mobile, web, and backend development<br>
 
 🚀 About Me
 	•	👨‍💻 Currently: Android Developer at Endios GmbH (Remote - Germany)
